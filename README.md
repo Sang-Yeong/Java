@@ -15,6 +15,7 @@ Study Programming Language (Java)
 
 ## 참고자료
 - 어서와 Java는 처음이지! (천인국/INFINITY BOOKS)
+- Java Style Guide by Google (Prof.Jin Kim 수업자료)
 
 ## 차례
 1. 자바 소개
